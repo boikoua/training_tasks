@@ -22,7 +22,3 @@ function repeatStr (n, s) {
 console.log(repeatStr(3, "*"));
 console.log(repeatStr(5, "#"));
 console.log(repeatStr(2, "ha "));
-
-// assert.strictEqual(repeatStr(3, "*"), "***");
-//     assert.strictEqual(repeatStr(5, "#"), "#####");
-//     assert.strictEqual(repeatStr(2, "ha "), "ha ha ")
